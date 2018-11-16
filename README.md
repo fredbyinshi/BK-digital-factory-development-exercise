@@ -1,0 +1,1 @@
+# BK-digital-factory-development-exercise
