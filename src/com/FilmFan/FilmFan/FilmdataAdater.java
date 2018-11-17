@@ -17,9 +17,6 @@ import com.codename1.ui.plaf.UIManager;
 import java.util.ArrayList;
 import java.util.Map;
 
-
-
-
 public class FilmdataAdater {
     String title;
     String poster_path;
